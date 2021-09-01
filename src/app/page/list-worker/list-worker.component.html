@@ -1,0 +1,20 @@
+<div class="section">
+    <app-header></app-header>
+</div>
+<div class="section">
+    <div class="list-worker">
+        <div *ngFor="let item of userData" class="detail">
+            <div class="profile-picture" (click)="detailWorker(item.userId)">
+                <img src="{{item.picture}}" [alt]="">
+            </div>
+            <div class="short-desc">
+                <div class="data-worker">
+                    <h3 (click)="detailWorker(item.userId)">{{item.name}}</h3>
+                    <p>{{item.speciality}}</p>
+                    <p>{{item.location}}</p>
+                    <h4>IDR {{item.price}}</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

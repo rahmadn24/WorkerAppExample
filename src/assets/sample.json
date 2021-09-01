@@ -1,0 +1,41 @@
+{
+    [
+        {
+            "location": "Bandung",
+            "speciality": "Kanker",
+            "name": "Ryan Ahmad",
+            "price": 200000,
+            "picture": "../../../assets/img/logo.png",
+            "userId": 1,
+            "phoneNumber": 87821655618,
+            "detail": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non praesentium facere molestias obcaecati, voluptatum cum
+      mollitia debitis hic totam consectetur tenetur rem enim neque,
+      quas eos in recusandae qui harum?."
+        },
+        {
+            "location": "Bandung",
+            "speciality": "Kanker",
+            "name": "Ryan Ahmad",
+            "price": 200000,
+            "picture": "../../../assets/img/logo.png",
+            "userId": 2,
+            "phoneNumber": 87821655618,
+            "Detail": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+      Non praesentium facere molestias obcaecati, voluptatum cum
+      mollitia debitis hic totam consectetur tenetur rem enim neque,
+      quas eos in recusandae qui harum?"
+        },
+        {
+            "location": "Bandung",
+            "speciality": "Kanker",
+            "name": "Ryan Ahmad",
+            "price": 200000,
+            "picture": "../../../assets/img/logo.png",
+            "userId": 3,
+            "phoneNumber": 87821655618,
+            "Detail": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+      Non praesentium facere molestias obcaecati, voluptatum cum
+      mollitia debitis hic totam consectetur tenetur rem enim neque,
+      quas eos in recusandae qui harum?"
+        }
+    ]
